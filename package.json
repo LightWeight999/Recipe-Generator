@@ -1,0 +1,9 @@
+{
+  "name": "pantry-print",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Grocery-photo-to-recipe prototype for UCLA MBA Tech Immersion",
+  "dependencies": {
+    "@vercel/kv": "^2.0.0"
+  }
+}
